@@ -1,5 +1,8 @@
+import { Layout } from "../../Components/Layout"
 export const MyOrder = () => {
   return (
-    <div>index</div>
+    <Layout>
+    MyOrder
+  </Layout>
   )
 }
